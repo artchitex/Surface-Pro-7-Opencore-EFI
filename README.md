@@ -32,3 +32,7 @@ If you want to boot without the anoing red bar with the lock icon you can try [t
 
 ## Credits
 Special thanks to the massive Hackintosh community for all your work that makes these guides and Surface Pro Hackintosh possible. Additional thanks goes to @acidanthera and ([@BadStorm](https://github.com/badstorm/surface-pro-7-opencore) for previous EFI.
+
+## donate
+<a href="https://paypal.me/Artchitex/"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" height="40"></a> 
+If you enjoyed this project — or just feeling generous, consider buying me a coffee. Cheers! 

@@ -1,20 +1,18 @@
 # Surface-Pro-7-Opencore-EFI
-Microsoft Surface Pro 7 Opencore EFI Opencore 0.9.3 MacOS Ventura
+Hackintosh Microsoft Surface Pro 7 Opencore EFI Opencore 0.9.3 MacOS Ventura
 
 OpenCore configuration for support macOS on Surface Pro 7
 
-Surface Specs
-Intel® Core™ i5-1035G4 Quad-Core
-8 GB LPDDR4x RAM
-Intel® Iris™ Plus
-SSD 256 GB
-Status
+Surface Specs :</br>
+Intel® Core™ i5-1035G4 Quad-Core</br>
+8 GB LPDDR4x RAM</br>
+Intel® Iris™ Plus</br>
+SSD 256 GB</br>
 
-Status	Feature	Note
-✅	Graphic Acceleration	QE/CI works
-✅	Wifi & Bluetooth	With OpenIntelWireless
-✅	Type Cover (keyboard/mouse)	With RHUB and BigSurface
-✅	Audio	With AppleALC
-✅	Battery Status	With BigSurface
-✅	Touch & Stylus	With BigSurface. You need to manualy insall IPTSDaemon
-❗	Camera Front and Rear	
+Feature	Note </p>
+✅	Graphic Acceleration	QE/CI works</br>
+✅	Wifi & Bluetooth	With OpenIntelWireless</br>
+✅	Type Cover (keyboard/mouse)	With RHUB and BigSurface</br>
+✅	Audio	With AppleALC</br>
+✅	Battery Status	With BigSurface</br>
+❗	Camera Front and Rear	</br>
